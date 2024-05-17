@@ -3,7 +3,7 @@
 ![img](img/img.png)
 
 ## Overview
-The ili9488_for_adafruit_rgb_display is an additional driver for adafruit_rgb_display.
+The ili9488_for_adafruit_rgb_display is an additional driver for adafruit-circuitpython-rgb-display.
 
 ## How to use
 * Clone ili9488_for_adafruit_rgb_display (or download)
