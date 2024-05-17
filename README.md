@@ -57,3 +57,6 @@ $ python3 sample.py
 ## Note
 * SPI read from device with optional command not supported.
 * In raspberry pi3 environment, the baudrate may be increased to 50000000 Hz. To speed up screen refresh.
+
+## Special thanks
+* My colleague engineer who made this ili9488 driver file.
